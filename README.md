@@ -7,3 +7,7 @@
 2020-06-20:
 
 [YOLO-V2](object_detect/YOLOv2.md)
+
+[YOLO-V3](object_detect/YOLOv3.md)
+
+[YOLO-V4](object_detect/YOLOv4.md)
