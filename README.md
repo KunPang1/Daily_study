@@ -11,3 +11,7 @@
 [YOLO-V3](object_detect/YOLOv3.md)
 
 [YOLO-V4](object_detect/YOLOv4.md)
+
+2020-06-21:
+
+[RetinaNet](object_detect/RetinaNet.md)
