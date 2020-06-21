@@ -15,3 +15,5 @@
 2020-06-21:
 
 [RetinaNet](object_detect/RetinaNet.md)
+
+[SSD](object_detect/SSD.md)
