@@ -17,3 +17,7 @@
 [RetinaNet](object_detect/RetinaNet.md)
 
 [SSD](object_detect/SSD.md)
+
+2020-06-22:
+
+[ResNet](CNN/ResNet.md)
